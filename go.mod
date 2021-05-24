@@ -1,4 +1,4 @@
-module github.com/aditya/bcrypt-hash
+module github.com/aditya37/bcrypt-hash
 
 go 1.16
 
